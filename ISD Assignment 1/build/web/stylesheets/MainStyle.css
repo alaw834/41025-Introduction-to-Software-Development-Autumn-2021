@@ -1,0 +1,61 @@
+body{
+    margin-top:5%;
+    background-size: cover;  
+    font-family:Calibri;
+    color: #ddc49a;
+    background-color:#1c1f2a;
+}
+
+form{
+    text-align: center;
+    margin: auto;
+    width: 20%;
+}
+
+#navbar{
+    position: fixed;
+    background-color: #861a22;
+    padding: 10px 5px 6px 15px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    top: 0;
+    left:0;
+    right: 0;
+}
+
+#links{
+    font-size: 18px;
+    padding: 5px;
+    word-spacing: 2px;
+    float: right;    
+}
+
+input.button{
+    background:#861a22;
+    border: none; 
+    color: white;
+    padding: 8px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+h1{
+    font-size: 35px;
+    color: white; 
+    margin: auto;
+    margin-bottom: 2%;
+    width: 25%;
+}
+
+
+a:link, a:visited{
+    color:#dddae8 ;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 12px;    
+}
+
+
