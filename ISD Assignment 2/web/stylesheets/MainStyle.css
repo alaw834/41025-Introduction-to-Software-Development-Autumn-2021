@@ -1,0 +1,105 @@
+*{
+    font-family:sans-serif;
+}
+
+body{
+    background-color: #d6dfe5;
+}
+
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #314f6f;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #d6dfe5;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #cc2c24;
+}
+
+.active {
+    background-color: #cc2c24;
+}
+
+#title {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+#homeTitle{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding-top: 10%;
+}
+
+#homeLogo{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding-top: 15%;
+}
+
+#registerform {
+    margin: auto;
+    width:25%;
+    text-align: center;
+}
+
+#registerTable{
+    border-spacing: 10px;
+    border-collapse: separate;
+}
+
+#loginform{
+    margin: auto;
+    width:25%;
+    text-align: center;
+}
+
+#loginTable{
+    border-spacing: 10px;
+    border-collapse: separate;
+}
+
+#submitButton{
+    text-align: center;
+}
+
+#info{
+    margin: auto;
+    width: 80%;
+}
+
+#infoTable{
+    border-spacing: 10px;
+    border-collapse: separate;
+}
+
+#footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 10%;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-color: #314f6f;
+}
+
+

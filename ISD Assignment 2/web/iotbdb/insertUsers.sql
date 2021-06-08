@@ -1,0 +1,22 @@
+INSERT INTO USERTABLE(FIRSTNAME, LASTNAME, EMAILADDRESS,PASSWORD, PHONENUMBER)
+VALUES 
+('Alex','Law','al@gmail.com','1234','0483920184'),
+('Nicholas','Kent','nkent@gmail.com','qTwa95Fy','0483920182'),
+('Khadeejah','Blake','kblake@gmail.com','tzJFFhsN','0439203948'),
+('Maja','Chung','mchung@gmail.com','zmHk8x3n','0489403829'),
+('Ajwa','Daly','adaly@gmail.com','VLC6LFDV','0425463524'),
+('Amaan','Akhtar','aakhtar@gmail.com','LXfucv8G','0453628394'),
+('Isabella','Ramsey','iramsey@gmail.com','PrXRs64P','0467893029'),
+('Aiden','Pace','apace@gmail.com','PemJLabM','0478291028'),
+('Mitchell','Cook','mcook@gmail.com','2p49tcnA','0483920574'),
+('Clarice','Rosa','crosa@gmail.com','f3GFAFCZ','0490749302'),
+('Azaan','Hatfield','ahatfield@gmail.com','BBNS5vBA','0463537281'),
+('Sharna','Peacock','speacock@gmail.com','xnMu3Rtn','0489473829'),
+('Tarun','Reese','treese@gmail.com','bWjxcy5p','0489098746'),
+('Markus','Benitez','mbenitz@gmail.com','qum8DVSa','0465649209'),
+('Mai','Whittle','mwhittle@gmail.com','qVV3YThS','0412341526'),
+('Mateusz','Klien','mklien@gmail.com','dKquQyt5','0483928192'),
+('Rebeca','Whitmore','rwhitmore@gmail.com','vPhNj3a8','0483920191'),
+('Xena','Brady','xbrady@gmail.com','4vzj5W6u','0420219301'),
+('Muhamed','Blundell','mblundell@gmail.com','scXYLJXL','0483920192'),
+('Sarah','Becker','sbecker@gmail.com','1234','0483920191');

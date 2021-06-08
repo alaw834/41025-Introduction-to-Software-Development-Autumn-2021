@@ -1,0 +1,22 @@
+INSERT INTO PRODUCTTABLE(PRODUCTNAME, PRODUCTDESCRIPTION, PRODUCTCATEGORY, PRODUCTPRICE, PRODUCTSTOCK)
+VALUES
+('Outdoor Camera', 'something useful', 'surveillance', 550.99, 50),
+('Indoor Camera', 'something useful', 'surveillance', 550.99, 50),
+('Canon 50D', 'A nice camera', 'Cameras', 600.50, 50),
+('Satellite Dish', 'something Dish-y', 'Entertainment', 9050.43, 3),
+('Outdoor Camera', 'something useful', 'surveillance', 550.99, 50),
+('Indoor Camera', 'something useful', 'surveillance', 550.99, 50),
+('Canon 50D', 'A nice camera', 'Cameras', 600.50, 50),
+('Satellite Dish', 'something Dish-y', 'Entertainment', 9050.43, 3),
+('Outdoor Camera', 'something useful', 'surveillance', 550.99, 50),
+('Indoor Camera', 'something useful', 'surveillance', 550.99, 50),
+('Canon 50D', 'A nice camera', 'Cameras', 600.50, 50),
+('Satellite Dish', 'something Dish-y', 'Entertainment', 9050.43, 3),
+('Outdoor Camera', 'something useful', 'surveillance', 550.99, 50),
+('Indoor Camera', 'something useful', 'surveillance', 550.99, 50),
+('Canon 50D', 'A nice camera', 'Cameras', 600.50, 50),
+('Satellite Dish', 'something Dish-y', 'Entertainment', 9050.43, 3),
+('Outdoor Camera', 'something useful', 'surveillance', 550.99, 50),
+('Indoor Camera', 'something useful', 'surveillance', 550.99, 50),
+('Canon 50D', 'A nice camera', 'Cameras', 600.50, 50),
+('Satellite Dish', 'something Dish-y', 'Entertainment', 9050.43, 3);
